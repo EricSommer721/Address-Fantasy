@@ -5,12 +5,6 @@
 
 ---
 
-## 📌 How to Use
-
-Paste this prompt into Cursor, replace the `{{placeholders}}` with your specific request, and let the assistant generate queries, code, schema, or docs as needed.
-
----
-
 ## 🔧 Prompt Template
 
 ```txt
